@@ -1,2 +1,1 @@
-# prueba5to
-pruega de git
+# proyecto de prueba
